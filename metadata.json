@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hospital SaaS",
+  "description": "نظام إدارة مستشفيات ذكي سحابي لتنظيم المرضى والأطباء والمواعيد والصيدلية والفوترة مع تكامل الذكاء الاصطناعي (Gemini).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
